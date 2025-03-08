@@ -1,12 +1,17 @@
 [
     {
       "id": "post1",
-      "title": "Post 1 Title",
+      "title": "How to create a HelloWorld with kotlin",
       "date": "2025-01-01"
     },
     {
       "id": "post2",
-      "title": "Post 2 Title",
-      "date": "2025-01-02"
+      "title": "How to create a MicroService Architecture End to End",
+      "date": "2025-01-15"
+    },
+    {
+      "id": "post3",
+      "title": "How to Setup a CI&CD with github action and github pages",
+      "date": "2025-01-30"
     }
   ]
