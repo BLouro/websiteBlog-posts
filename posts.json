@@ -1,17 +1,26 @@
 [
-    {
-      "id": "post1",
-      "title": "How to create a HelloWorld with kotlin",
-      "date": "2025-01-01"
-    },
-    {
-      "id": "post2",
-      "title": "How to create a MicroService Architecture End to End",
-      "date": "2025-01-15"
-    },
-    {
-      "id": "post3",
-      "title": "How to Setup a CI&CD with github action and github pages",
-      "date": "2025-01-30"
-    }
-  ]
+  {
+    "id": "post1",
+    "title": "How to create a HelloWorld with kotlin",
+    "date": "2025-01-01",
+    "author": "Bernardo Louro",
+    "coverImage": "post1.png",
+    "readingTime": 5
+  },
+  {
+    "id": "post2",
+    "title": "How to create a MicroService Architecture End to End",
+    "date": "2025-01-15",
+    "author": "Bernardo Louro",
+    "coverImage": "post2.jpeg",
+    "readingTime": 10
+  },
+  {
+    "id": "post3",
+    "title": "How to Setup a CI&CD with github action and github pages",
+    "date": "2025-01-30",
+    "author": "Bernardo Louro",
+    "coverImage": "post3.png",
+    "readingTime": 15
+  }
+]
